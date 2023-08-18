@@ -3,7 +3,7 @@
 
 	<div>
 		<a href="game">Start</a>
-		<a href="">GitHub</a>
+		<a href="https://github.com/seba9989/Dot-And-Cross">GitHub</a>
 	</div>
 </div>
 

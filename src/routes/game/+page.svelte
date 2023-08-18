@@ -88,7 +88,7 @@
 		{/if}
 		<div>
 			<a href="/game" on:click={() => reset()}>Return</a>
-			<a href="">GitHub</a>
+			<a href="https://github.com/seba9989/Dot-And-Cross">GitHub</a>
 		</div>
 	</div>
 
