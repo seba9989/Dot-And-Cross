@@ -1,8 +1,9 @@
+
 <div>
 	<h1>Kółko i Krzyżyk</h1>
 
 	<div>
-		<a href="game">Start</a>
+		<a href="/game">Start</a>
 		<a href="https://github.com/seba9989/Dot-And-Cross">GitHub</a>
 	</div>
 </div>
